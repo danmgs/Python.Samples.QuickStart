@@ -1,0 +1,33 @@
+# Environnements virtuels
+.venv/
+env/
+venv/
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers temporaires
+*.log
+*.tmp
+*.swp
+
+# Caches
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Sorties / artefacts
+*.egg-info/
+dist/
+build/
+
+# IDE / éditeurs
+.vscode/
+.idea/
+*.iml
+
+# OS spécifiques
+.DS_Store
+Thumbs.db
